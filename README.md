@@ -55,7 +55,7 @@ This realisation ignited my passion for technology, ultimately leading me to emb
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rspec/rspec-original-wordmark.svg" title="Rspec" alt="Rspec" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8BgjdTl66_z8nPUsyNVJ2KTQIMxLogkmC7At5kZpGH0fz-To3&s" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
