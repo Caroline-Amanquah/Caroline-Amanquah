@@ -26,10 +26,9 @@
 
 <h3 align="center">:woman_technologist: About Me:</h3>
 
-Before joining Makers, I was working as a Psychological Wellbeing Practitioner. While I enjoyed my work, during and after the pandemic I began to think about the everyday technologies that we all found ourselves increasingly dependent on and ways in which software programmes that I used to store and collect data from patient’s, as well as, facilitate therapy sessions, could be improved to become more efficient. As a result of these initial thoughts I became very passionate about technology and decided to transition into the tech industry to pursue this passion and utilize my problem-solving and analytical skills to create meaningful solutions for people.
+Before joining and successfully completing the 12-week bootcamp at Makers, I worked as a Psychological Wellbeing Practitioner. While I found my work fulfilling, the pandemic heightened my awareness of the crucial role technology plays in our lives. I began to reflect on the software programs I used to manage client data and facilitate therapy sessions, realising there was room for improvement in terms of efficiency and effectiveness.
 
-I believe my background in Psychology gives me a unique perspective and a strong ability to collaborate effectively in teams, which is essential in a fast-paced tech environment. I found that the critical thinking, attention to detail, and communication skills I developed in my previous role are transferable and valuable in the tech industry, especially in roles that require empathy and understanding of the user's needs.
-
+This realisation ignited my passion for technology, ultimately leading me to embark on a journey into coding and software development. I am thrilled to have the opportunity to apply my problem-solving abilities and analytical thinking to develop innovative solutions that can positively impact people's lives.
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools:</h3>
 <br>
