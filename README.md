@@ -28,7 +28,7 @@
 
 Before joining and successfully completing the 12-week bootcamp at Makers, I worked as a Psychological Wellbeing Practitioner. While I found my work fulfilling, the pandemic heightened my awareness of the crucial role technology plays in our lives. I began to reflect on the software programs I used to manage client data and facilitate therapy sessions, realising there was room for improvement in terms of efficiency and effectiveness.
 
-This realisation ignited my passion for technology, ultimately leading me to embark on a journey into coding and software development. I am thrilled to have the opportunity to apply my problem-solving abilities and analytical thinking to develop innovative solutions that can positively impact people's lives.
+This realisation ignited my passion for technology, ultimately leading me to embark on a journey into coding and software development. I am delighted to have the opportunity to apply my problem-solving abilities and analytical thinking to develop innovative solutions that can positively impact people's lives.
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools:</h3>
 <br>
