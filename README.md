@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&center=true&width=1000&height=40&lines=Hello+there%2C+I+am+Caroline+a+full+stack+software+developer%F0%9F%91%8B" />
+  <div style="font-weight: bold;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&center=true&width=1000&height=40&lines=Hello+there%2C+I+am+Caroline+a+full+stack+software+developer%F0%9F%91%8B&size=22" />
+  </div>
 </p>
 
 <div id="badges" align="center">
