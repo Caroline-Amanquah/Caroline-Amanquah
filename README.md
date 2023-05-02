@@ -76,5 +76,3 @@ I believe my background in Psychology gives me a unique perspective and a strong
 <br>
 
 </div>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
