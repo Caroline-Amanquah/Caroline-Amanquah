@@ -14,6 +14,9 @@
 <a href="https://codepen.io/CarolineAmanq/pens/popular">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </a>
+  <a href="https://github.com/Caroline-Amanquah/Github-CV">
+<img src="https://img.shields.io/badge/Github-CV-0077B5?style=for-the-badge&logo=Github-CV=&logoColor=white" />
+</a>
 </div>
 
 <p style="height: 20px;">&nbsp;</p>
