@@ -27,7 +27,7 @@
 </div>
 
 
-<h3 align="center">:woman_technologist: About Me:</h3>
+<h3 align="center"> 😄 About Me:</h3>
 
 Before joining and successfully completing the 12-week bootcamp at Makers, I worked as a Psychological Wellbeing Practitioner. While I found my work fulfilling, the pandemic heightened my awareness of the crucial role technology plays in our lives. I began to reflect on the software programs I used to manage client data and facilitate therapy sessions, realising there was room for improvement in terms of efficiency and effectiveness.
 
