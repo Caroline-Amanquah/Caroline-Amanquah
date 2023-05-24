@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/caroline-amanquah/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.codewars.com/users/CaroAmanq">
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
-</a>
   <a href="https://github.com/Caroline-Amanquah/Github-CV">
 <img src="https://img.shields.io/badge/Github-CV-0077B5?style=for-the-badge&logo=Github-CV=&logoColor=white" />
 </a>
