@@ -67,10 +67,5 @@ This realisation ignited my passion for technology, ultimately leading me to emb
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-Amanquah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Caroline-Amanquah&show_icons=true)
-
-<br>
 
 </div>
